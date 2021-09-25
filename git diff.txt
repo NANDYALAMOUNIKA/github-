@@ -1,1 +1,2 @@
 git has diff from getting difference
+git commited to diff to stagging and local area
