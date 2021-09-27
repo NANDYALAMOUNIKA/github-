@@ -1,2 +1,0 @@
-the file is  use to difference 
-git commited to other files
