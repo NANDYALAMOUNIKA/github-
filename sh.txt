@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-jjjjjjjjjjjjjjjjjjj'
-lllllllllllllll;
-oooooooooooooooooooooo.
+
 =======
-ssssssssssssssssssssssssssss
-ddddddddddddddddddddddddd
+git stash the file using cmd
 >>>>>>> Stashed changes
