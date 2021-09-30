@@ -1,3 +1,0 @@
-the file is pull from central repo to local repo 
-the file is a new commit
-from central repo to local repo

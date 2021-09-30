@@ -1,4 +1,0 @@
-
-=======
-git stash the file using cmd
->>>>>>> Stashed changes
